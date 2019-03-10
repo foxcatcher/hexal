@@ -437,3 +437,8 @@ footer div{
     box-sizing: border-box;
     letter-spacing: -0.2pt;
 }
+
+h1{
+    visibility: hidden;
+    position: absolute;
+}
